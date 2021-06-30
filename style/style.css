@@ -1,0 +1,154 @@
+body{
+    background-color: #100E17;
+    color: white;
+}
+a{
+    color: white;
+}
+a:hover
+{
+    color: yellow;
+}
+.box-1
+{
+    margin-top: 5rem;
+}
+.box-2
+{
+    margin-top: 7rem;
+}
+.box-3
+{
+    margin-top: 7rem;
+}
+a{
+    text-decoration: none;
+    list-style-type: none;
+    list-style: none;
+}
+h1{
+    line-height: 69px;
+}
+/* ul{
+    line-height: 29px;
+} */
+ul li{
+    list-style-type: none;
+}
+
+.hello-span
+{
+    background-color: #0bceaf;
+    font-size: 14px;
+    line-height: 54px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    padding: 10px 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 0px;
+
+}
+.hello-span:hover
+{
+    background-color: yellow;
+    color: black;
+}
+  .header-info
+  {
+    margin-top: 7rem;
+    margin-left: 9rem;
+   
+  }
+
+
+  /* media queries */
+
+
+  /* @media (max-width:500px)
+  {
+      .header-info{
+      text-align: center;
+      margin-left: 0px;
+      }
+      h1
+      {
+        line-height: 60px;
+      }
+      .about-text
+      { 
+          text-align: center;
+      }
+  } */
+
+
+  /* About us section */
+  .about-text
+  {
+      margin-left: 2rem;
+  }
+ 
+ .talent
+  {
+      list-style: none;
+      display: inline-block;
+      margin: 0px 6px;
+      border-radius: 4px ;
+      margin-bottom: 10px;
+      padding: 4px 0px;
+  }
+  .talent-span
+  {
+    border: 1px solid #0bceaf;
+    padding: 4px 10px;
+    border-radius: 4px;
+  }
+  .talent-span:hover{
+background-color: yellow;
+color: black;
+  }
+
+
+  /* media queries */
+
+
+  @media (max-width:500px)
+  {
+      .header-info{
+      text-align: center;
+      margin-left: 0px;
+      }
+      h1
+      {
+        line-height: 60px;
+      }
+      .about-text
+      { 
+          text-align: center;
+      }
+      .talent-ul
+      {
+          text-align: center;
+      }
+  }
+
+  /* cards section */
+.card
+{
+    background-color: #100E17;
+    border: 2px solid #1e1d22;
+    box-shadow: 3px 3px 3px 3px  #1e1d22;
+    height: 242px;
+    line-height: 31px;
+}
+.icon{
+    text-align: center;
+}
+.talent-p{
+    text-align: center;
+}
+h3
+{
+    text-align: center;
+}
