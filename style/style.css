@@ -132,8 +132,8 @@ color: black;
           text-align: center;
       }
       .download{
+     
       text-align: center;
-       margin-right: 8rem;
       }
   }
 
@@ -145,11 +145,7 @@ color: black;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 0px;
     background-color: #0bceaf;
-    font-size: 14px;;
-    letter-spacing: 1px;
     font-weight: bold;
-    padding: 10px 30px;
-
   }
 
   /* cards section */
