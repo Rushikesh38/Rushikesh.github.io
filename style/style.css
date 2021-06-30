@@ -131,6 +131,25 @@ color: black;
       {
           text-align: center;
       }
+      .download{
+      text-align: center;
+       margin-right: 8rem;
+      }
+  }
+
+
+  .download-btn
+  { 
+     border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 0px;
+    background-color: #0bceaf;
+    font-size: 14px;;
+    letter-spacing: 1px;
+    font-weight: bold;
+    padding: 10px 30px;
+
   }
 
   /* cards section */
@@ -151,4 +170,9 @@ color: black;
 h3
 {
     text-align: center;
+}
+.social-icon
+{
+    display: flex;
+    padding: 2px;
 }
