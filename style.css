@@ -150,7 +150,7 @@ ul li{
   margin-left: -52px;
 }
 }
-@media only screen and (max-width:322px){
+@media only screen and (max-width:360px){
   .email{
     font-size: 4vh;
   }
