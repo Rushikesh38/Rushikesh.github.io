@@ -150,7 +150,11 @@ ul li{
   margin-left: -52px;
 }
 }
-
+@media only screen and (max-width:322px){
+  .email{
+    font-size: 4vh;
+  }
+}
 /* Button style */
 .btn{
   padding: 0.5rem 1rem;
